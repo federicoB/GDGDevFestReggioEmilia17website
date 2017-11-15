@@ -1,9 +1,9 @@
 {
-  "title": "GDG DevFest Season 2016",
-  "description": "The biggest Google tech conference in Ukraine carefully crafted for you by GDG community! All about Android, Web and Cloud from the world experts",
-  "keywords": "event, gdg, gde, devfest, google, programming, android, chrome, polymer, developers, web, cloud, androiddev",
-  "dates": "September 9-10, 2016",
-  "locationAddressShort": "Lviv, Ukraine",
+  "title": "GDG DevFest Reggio Emilia 2017",
+  "description": "The biggest Google tech conference in Emilia Romagna carefully crafted for you by GDG community!",
+  "keywords": "event, gdg, gde, devfest, google, programming, developers, web, cloud",
+  "dates": "November 25, 2017",
+  "locationAddressShort": "Reggio Emilia, Italy",
   "motto": "Be a GDG. Be a Hero!",
   "playIcon": "See how it was in 2015",
   "c4p": "Become a speaker",
@@ -28,9 +28,9 @@
   "featuredPeopleTitle": "Rockstar Speakers",
   "featuredPeopleViewAll": "View all speakers",
   "action": "See how it was",
-  "locationTitle": "Pivdennyi Expo Center",
+  "locationTitle": "Impact Hub",
   "locationDescription": "Newly built Pivdennyi Expo is a long-awaited exhibition center in Lviv, which can fulfill the needs of the large-scale event",
-  "locationAddress": "Shchyretska St, 36",
+  "locationAddress": "Via Statuto 3",
   "organizerTitle": "Organizer",
   "aboutOrganizers": "<a href='http://lviv.gdg.org.ua' target='_blank'>GDG Lviv</a> with support of 10 GDGs from all around Ukraine is proud organizer of DevFest Ukraine",
   "openTeamPage": "Open team page",
@@ -126,16 +126,16 @@
       "caption": "Attendees"
     },
     {
-      "counter": 2,
-      "caption": "Days"
+      "counter": 1,
+      "caption": "Day"
     },
     {
-      "counter": 30,
+      "counter": 9,
       "caption": "Sessions"
     },
     {
-      "counter": 3,
-      "caption": "Tracks"
+      "counter": 1,
+      "caption": "Track"
     }
   ],
   "callToAction": {

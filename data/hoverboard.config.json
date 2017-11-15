@@ -1,14 +1,14 @@
 {
   "url": "https://hoverboard.firebaseapp.com/",
-  "startDate": "2016-09-09T09:00:00+03:00",
-  "endDate": "2016-09-10T19:00:00+03:00",
+  "startDate": "2017-11-25T10:00:00+02:00",
+  "endDate": "2017-11-25T18:00:00+02:00",
   "analytics": {
     "prod": "UA-43643469-8",
     "dev": "UA-43643469-9"
   },
   "organizer": {
-    "name": "GDG Lviv",
-    "twitter": "gdglviv"
+    "name": "GDG Reggio Emilia",
+    "twitter": "gdgreggioemilia"
   },
   "webapp": {
     "shortName": "DevFest",
@@ -29,7 +29,7 @@
     "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe"
   },
   "dateFormat": {
-    "locale": "en-US",
+    "locale": "it-IT",
     "blog": {"month": "short", "day": "numeric", "year": "numeric"}
   },
   "hashtag": "dfua",
@@ -63,38 +63,33 @@
   "social": [
     {
       "name": "twitter",
-      "nickname": "GDGLviv",
-      "url": "https://twitter.com/gdglviv"
+      "nickname": "GDGReggioEmilia",
+      "url": "https://twitter.com/gdgreggioemilia"
     },
     {
       "name": "gplus",
-      "nickname": "102444623953913144164",
-      "url": "https://plus.google.com/102444623953913144164"
+      "nickname": "102079326516882000697",
+      "url": "https://plus.google.com/102079326516882000697"
     },
     {
       "name": "facebook",
-      "nickname": "GDGLviv",
-      "url": "https://www.facebook.com/GDGLviv"
-    },
-    {
-      "name": "linkedin",
-      "nickname": "google-developers-group-lviv",
-      "url": "https://www.linkedin.com/company/google-developers-group-lviv"
+      "nickname": "gdgreggioemilia",
+      "url": "https://www.facebook.com/gdgreggioemilia/"
     }
   ],
   "location": {
     "apiKey": "",
-    "name": "Pivdennyi Expo Center",
-    "address": "36 Shchyretska St, Lviv, Ukraine",
-    "link": "https://www.facebook.com/expopivdennij",
+    "name": "Impact Hub",
+    "address": "Via Statuto 3 - Reggio Emilia, Italia",
+    "link": "http://www.impacthubre.it",
     "pointer": {
-      "latitude": 49.809841,
-      "longitude": 23.972805,
+      "latitude": 44.692335,
+      "longitude": 10.633331,
       "zoom": 15
     },
     "mapCenter": {
-      "latitude": 49.809841,
-      "longitude": 23.982805
+      "latitude": 10.633331,
+      "longitude": 10.633331
     },
     "images": [
       "/images/backgrounds/location_1.jpg",
