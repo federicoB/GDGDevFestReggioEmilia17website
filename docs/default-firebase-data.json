@@ -1,626 +1,897 @@
 {
-  "partners" : [ {
-    "logos" : [ {
-      "logoUrl" : "../images/logos/gdg-lviv.svg",
-      "name" : "GDG Lviv",
-      "url" : "https://plus.google.com/102444623953913144164",
-      "width" : 170
-    } ],
-    "title" : "Template Creator"
-  }, {
-    "logos" : [ {
-      "logoUrl" : "../images/logos/google.svg",
-      "name" : "Google",
-      "url" : "https://www.google.com.ua/intl/en/about/"
-    }, {
-      "logoUrl" : "../images/logos/gdg-x.svg",
-      "name" : "GDG[x]",
-      "url" : "https://github.com/gdg-x"
-    } ],
-    "title" : "General Partner"
-  } ],
-  "schedule" : [ {
-    "date" : "2017-11-25",
-    "dateReadable" : "25 Novembre",
-    "timeslots" : [ {
-      "endTime" : "10:20",
-      "sessions" : [ [ 1 ] ],
-      "startTime" : "10:00"
-    }, {
-      "endTime" : "10:30",
-      "sessions" : [ [ 2 ] ],
-      "startTime" : "10:20"
-    }, {
-      "endTime" : "11:20",
-      "sessions" : [ [ 3 ] ],
-      "startTime" : "10:30"
-    }, {
-      "endTime" : "11:40",
-      "sessions" : [ [ 4 ] ],
-      "startTime" : "11:20"
-    }, {
-      "endTime" : "12:25",
-      "sessions" : [ [ 5 ] ],
-      "startTime" : "11:40"
+  "partners": [
+    {
+      "logos": [
+        {
+          "logoUrl": "../images/logos/gdg-lviv.svg",
+          "name": "GDG Lviv",
+          "url": "https://plus.google.com/102444623953913144164",
+          "width": 170
+        }
+      ],
+      "title": "Template Creator"
     },
-      {
-        "endTime" : "12:40",
-        "sessions" : [ [ 6 ] ],
-        "startTime" : "12:25"
-      }, {
-        "endTime" : "14:00",
-        "sessions" : [ [ 7 ] ],
-        "startTime" : "12:40"
-      }, {
-        "endTime" : "14:15",
-        "sessions" : [ [ 8 ] ],
-        "startTime" : "14:00"
-      }, {
-        "endTime" : "14:45",
-        "sessions" : [ [ 9 ] ],
-        "startTime" : "14:15"
-      }, {
-        "endTime" : "15:15",
-        "sessions" : [ [ 10 ] ],
-        "startTime" : "14:45"
-      }, {
-        "endTime" : "16:00",
-        "sessions" : [ [ 11 ] ],
-        "startTime" : "15:15"
-      }, {
-        "endTime" : "16:30",
-        "sessions" : [ [ 12 ] ],
-        "startTime" : "16:00"
-      }, {
-        "endTime" : "16:30",
-        "sessions" : [ [ 13 ] ],
-        "startTime" : "16:30"
-      }, {
-        "endTime" : "16:50",
-        "sessions" : [ [ 14 ] ],
-        "startTime" : "16:00"
-      }, {
-        "endTime" : "17:30",
-        "sessions" : [ [ 15 ] ],
-        "startTime" : "16:50"
-      }, {
-        "endTime" : "18:00",
-        "sessions" : [ [ 16 ] ],
-        "startTime" : "17:30"
-      }, {
-        "endTime" : "18:30",
-        "sessions" : [ [ 17 ] ],
-        "startTime" : "18:00"
-      }, {
-        "endTime" : "18:45",
-        "sessions" : [ [ 18 ] ],
-        "startTime" : "18:30"
-      } ],
-    "tracks" : [ {
-      "title" : "DevFest"
-    }]
-  } ],
-  "sessions" : {
-    "1" : {
-      "description" : "",
-      "id" : 1,
-      "image" : "/images/backgrounds/registration.jpg",
-      "title" : "Registration"
+    {
+      "logos": [
+        {
+          "logoUrl": "../images/logos/google.svg",
+          "name": "Google",
+          "url": "https://www.google.com.ua/intl/en/about/"
+        },
+        {
+          "logoUrl": "../images/logos/gdg-x.svg",
+          "name": "GDG[x]",
+          "url": "https://github.com/gdg-x"
+        }
+      ],
+      "title": "General Partner"
+    }
+  ],
+  "schedule": [
+    {
+      "date": "2017-11-25",
+      "dateReadable": "25 Novembre",
+      "timeslots": [
+        {
+          "endTime": "10:20",
+          "sessions": [
+            [
+              1
+            ]
+          ],
+          "startTime": "10:00"
+        },
+        {
+          "endTime": "10:30",
+          "sessions": [
+            [
+              2
+            ]
+          ],
+          "startTime": "10:20"
+        },
+        {
+          "endTime": "11:20",
+          "sessions": [
+            [
+              3
+            ]
+          ],
+          "startTime": "10:30"
+        },
+        {
+          "endTime": "11:40",
+          "sessions": [
+            [
+              4
+            ]
+          ],
+          "startTime": "11:20"
+        },
+        {
+          "endTime": "12:25",
+          "sessions": [
+            [
+              5
+            ]
+          ],
+          "startTime": "11:40"
+        },
+        {
+          "endTime": "12:40",
+          "sessions": [
+            [
+              6
+            ]
+          ],
+          "startTime": "12:25"
+        },
+        {
+          "endTime": "14:00",
+          "sessions": [
+            [
+              7
+            ]
+          ],
+          "startTime": "12:40"
+        },
+        {
+          "endTime": "14:15",
+          "sessions": [
+            [
+              8
+            ]
+          ],
+          "startTime": "14:00"
+        },
+        {
+          "endTime": "14:45",
+          "sessions": [
+            [
+              9
+            ]
+          ],
+          "startTime": "14:15"
+        },
+        {
+          "endTime": "15:15",
+          "sessions": [
+            [
+              10
+            ]
+          ],
+          "startTime": "14:45"
+        },
+        {
+          "endTime": "16:00",
+          "sessions": [
+            [
+              11
+            ]
+          ],
+          "startTime": "15:15"
+        },
+        {
+          "endTime": "16:30",
+          "sessions": [
+            [
+              12
+            ]
+          ],
+          "startTime": "16:00"
+        },
+        {
+          "endTime": "16:50",
+          "sessions": [
+            [
+              13
+            ]
+          ],
+          "startTime": "16:30"
+        },
+        {
+          "endTime": "17:30",
+          "sessions": [
+            [
+              14
+            ]
+          ],
+          "startTime": "16:50"
+        },
+        {
+          "endTime": "18:00",
+          "sessions": [
+            [
+              15
+            ]
+          ],
+          "startTime": "17:30"
+        },
+        {
+          "endTime": "18:30",
+          "sessions": [
+            [
+              16
+            ]
+          ],
+          "startTime": "18:00"
+        },
+        {
+          "endTime": "18:45",
+          "sessions": [
+            [
+              17
+            ]
+          ],
+          "startTime": "18:30"
+        }
+      ],
+      "tracks": [
+        {
+          "title": "DevFest"
+        }
+      ]
+    }
+  ],
+  "sessions": {
+    "1": {
+      "description": "",
+      "id": 1,
+      "image": "/images/backgrounds/registration.jpg",
+      "title": "Registration"
     },
-    "2" : {
-      "description" : "Talk di apertura dell'evento",
-      "id" : 2,
-      "image" : "/images/backgrounds/opening.jpg",
-      "language" : "Italian",
-      "title" : "GDG DevFest Reggio Emilia 2017 Opening"
+    "2": {
+      "description": "Talk di apertura dell'evento",
+      "id": 2,
+      "image": "/images/backgrounds/opening.jpg",
+      "language": "Italian",
+      "title": "GDG DevFest Reggio Emilia 2017 Opening"
     },
-    "3" : {
-      "complexity" : "Intermediate",
-      "description" : "",
-      "id" : 3,
-      "language" : "Italian",
-      "presentation" : "",
-      "speakers" : [ 1 ],
-      "tags" : [ "Serverless", "Architecture", "Cloud" ],
-      "title" : "Come il serverless cambia il gioco, nella teoria e nella pratica."
+    "3": {
+      "complexity": "Intermediate",
+      "description": "",
+      "id": 3,
+      "language": "Italian",
+      "presentation": "",
+      "speakers": [
+        1
+      ],
+      "tags": [
+        "Serverless",
+        "Architecture",
+        "Cloud"
+      ],
+      "title": "Come il serverless cambia il gioco, nella teoria e nella pratica."
     },
-    "4" : {
-      "complexity" : "Beginner",
-      "description" : "",
-      "id" : 4,
-      "language" : "Italian",
-      "presentation" : "",
-      "speakers" : [ 2 ],
-      "tags" : [ "Web" , "Cloud", "Business" ],
-      "title" : "Cloud computing, scelta strategica per il successo di un progetto"
+    "4": {
+      "complexity": "Beginner",
+      "description": "",
+      "id": 4,
+      "language": "Italian",
+      "presentation": "",
+      "speakers": [
+        2
+      ],
+      "tags": [
+        "Web",
+        "Cloud",
+        "Business"
+      ],
+      "title": "Cloud computing, scelta strategica per il successo di un progetto"
     },
-    "5" : {
-      "complexity" : "Beginner",
-      "description" : "",
-      "id" : 5,
-      "language" : "Italian",
-      "presentation" : "",
-      "speakers" : [ 4 ],
-      "tags" : [ "Python, Languages" ],
-      "title" : "Python: learning to love snakes"
+    "5": {
+      "complexity": "Beginner",
+      "description": "",
+      "id": 5,
+      "language": "Italian",
+      "presentation": "",
+      "speakers": [
+        3
+      ],
+      "tags": [
+        "Python", "Languages"
+      ],
+      "title": "Python: learning to love snakes"
     },
-    "6" : {
-      "complexity" : "Beginner",
-      "description" : "",
-      "id" : 6,
-      "language" : "Italian",
-      "presentation" : "https://speakerdeck.com/gdglviv/adrian-kajda-fuelio-success-story",
-      "speakers" : [ 5 ],
-      "tags" : [ "" ],
-      "title" : "Be internet awesome: le 5 regole di Google per la cittadinanza digitale"
+    "6": {
+      "complexity": "Beginner",
+      "description": "",
+      "id": 6,
+      "language": "Italian",
+      "presentation": "",
+      "speakers": [
+        4
+      ],
+      "tags": [
+        "Web identity"
+      ],
+      "title": "Be internet awesome: le 5 regole di Google per la cittadinanza digitale"
     },
-    "7" : {
-      "description" : "Foooooooood!",
-      "id" : 7,
-      "image" : "/images/backgrounds/lunch.jpg",
-      "title" : "Lunch break"
+    "7": {
+      "description": "Foooooooood!",
+      "id": 7,
+      "image": "/images/backgrounds/erbazzone.jpg",
+      "title": "Lunch break"
     },
-    "8" : {
-      "description" : "",
-      "id" : 8,
-      "image" : "/images/backgrounds/lunch.jpg",
-      "title" : "Introduzione alla II parte"
+    "8": {
+      "description": "",
+      "id": 8,
+      "image": "",
+      "title": "Introduzione alla II parte"
     },
-    "9" : {
-      "complexity" : "Beginner",
-      "description" : "",
-      "id" : 9,
-      "language" : "Italian",
-      "presentation" : "",
-      "speakers" : [ 7 ],
-      "tags" : [ "Cloud" ],
-      "title" : "VR and game"
+    "9": {
+      "complexity": "Beginner",
+      "description": "",
+      "id": 9,
+      "language": "Italian",
+      "presentation": "",
+      "speakers": [
+        5
+      ],
+      "tags": [
+        "Cloud"
+      ],
+      "title": "VR and game"
     },
-    "10" : {
-      "complexity" : "Beginner",
-      "description" : "",
-      "id" : 10,
-      "language" : "Italian",
-      "presentation" : "",
-      "speakers" : [ 8 ],
-      "tags" : [ "Firebase" ],
-      "title" : "Firebase"
+    "10": {
+      "complexity": "Beginner",
+      "description": "",
+      "id": 10,
+      "language": "Italian",
+      "presentation": "",
+      "speakers": [
+        6
+      ],
+      "tags": [
+        "Firebase"
+      ],
+      "title": "Firebase"
     },
-    "11" : {
-      "complexity" : "Intermediate",
-      "description" : "",
-      "id" : 11,
-      "language" : "Italian",
-      "presentation" : "",
-      "speakers" : [ 9 ],
-      "tags" : [ "Kotlin", "Languages" ],
-      "title" : "Kotlin"
+    "11": {
+      "complexity": "Intermediate",
+      "description": "",
+      "id": 11,
+      "language": "Italian",
+      "presentation": "",
+      "speakers": [
+        7
+      ],
+      "tags": [
+        "Kotlin",
+        "Languages"
+      ],
+      "title": "Kotlin"
     },
-    "12" : {
-      "complexity" : "Intermediate",
-      "description" : "",
-      "id" : 12,
-      "language" : "Italian",
-      "speakers" : [ 10 ],
-      "tags" : [ "Chatbots" ],
-      "title" : "Can a chatbot help you?"
+    "12": {
+      "description": "",
+      "id": 12,
+      "image": "",
+      "title": "Coffee break"
     },
-    "13" : {
-      "complexity" : "Beginner",
-      "description" : "",
-      "id" : 13,
-      "language" : "Italian",
-      "presentation" : "",
-      "speakers" : [ 11 ],
-      "tags" : [ "Git" ],
-      "title" : "In Git we trust"
+    "13": {
+      "complexity": "Intermediate",
+      "description": "",
+      "id": 13,
+      "language": "Italian",
+      "speakers": [
+        8
+      ],
+      "tags": [
+        "Chatbots"
+      ],
+      "title": "Can a chatbot help you?"
     },
-    "14" : {
-      "complexity" : "Intermediate",
-      "description" : "",
-      "id" : 14,
-      "language" : "Italian",
-      "speakers" : [ 12 ],
-      "tags" : [ "" ],
-      "title" : "Pythonic Data Superpowers"
+    "14": {
+      "complexity": "Beginner",
+      "description": "",
+      "id": 14,
+      "language": "Italian",
+      "presentation": "",
+      "speakers": [
+        9
+      ],
+      "tags": [
+        "Git"
+      ],
+      "title": "In Git we trust"
     },
-    "15" : {
-      "complexity" : "Beginner",
-      "description" : "",
-      "id" : 15,
-      "language" : "Italian",
-      "presentation" : "",
-      "speakers" : [ 13 ],
-      "tags" : [ "Android" ],
-      "title" : "Node"
+    "15": {
+      "complexity": "Intermediate",
+      "description": "",
+      "id": 15,
+      "language": "Italian",
+      "speakers": [
+        3
+      ],
+      "tags": [
+        ""
+      ],
+      "title": "Pythonic Data Superpowers"
+    },
+    "16": {
+      "complexity": "Beginner",
+      "description": "",
+      "id": 16,
+      "language": "Italian",
+      "presentation": "",
+      "speakers": [
+        10
+      ],
+      "tags": [
+        "Android"
+      ],
+      "title": "Node"
+    },
+    "17": {
+      "description": "",
+      "id": 17,
+      "title": "Conclusione evento"
     }
   },
-  "speakers" : [ null, {
-    "bio" : "",
-    "company" : "Soluzioni Futura",
-    "companyLogo" : "/images/logos/soluzioni-futura.svg",
-    "country" : "Reggio Emilia, Italy",
-    "featured" : true,
-    "id" : 1,
-    "name" : "Giovanni Bruno",
-    "photoUrl" : "/images/people/giovanni-bruno.jpg",
-    "shortBio" : "",
-    "socials" : [ {
-      "icon" : "linkedin",
-      "link" : "https://www.linkedin.com/in/giovanni-bruno-04265949/",
-      "name" : "LinkedIn"
-    }, {
-      "icon" : "github",
-      "link" : "https://github.com/giowe",
-      "name" : "GitHub"
-    } ],
-    "tags" : [ "AWS", "Serverless" ],
-    "title" : "Presidente Soluzioni Futura Soc. Coop."
-  }, {
-
-    "bio" : "",
-    "company" : "Soluzioni Futura",
-    "companyLogo" : "/images/logos/soluzioni-futura.svg",
-    "country" : "Reggio Emilia, Italy",
-    "featured" : true,
-    "id" : 2,
-    "name" : "Daniele Donelli",
-    "photoUrl" : "/images/people/daniele-donelli.jpg",
-    "shortBio" : "",
-    "socials" : [ {
-      "icon" : "linkedin",
-      "link" : "https://www.linkedin.com/in/daniele-donelli-aba5575b/",
-      "name" : "LinkedIn"
-    } ],
-    "tags" : [ "Imprenditorialità" ],
-    "title" : "Presidente presso Soluzioni Futura"
-  }, {
-    "bio" : "",
-    "company" : "Duetsche Telekom AG - Group Innovation+",
-    "companyLogo" : "/images/logos/gdg-lviv.svg",
-    "country" : "Munich and Dusseldorf, Germany",
-    "featured" : true,
-    "id" : 3,
-    "name" : "Michele 'Ubik' De Simoni",
-    "photoUrl" : "/images/people/sascha_wolter.jpg",
-    "shortBio" : "UX enthusiast with passion for the IoT. Board member of the Usability & User Experience committee at the federal association BITKOM.",
-    "socials" : [ {
-      "icon" : "website",
-      "link" : "http://www.wolter.biz",
-      "name" : "Website"
-    }, {
-      "icon" : "twitter",
-      "link" : "http://twitter.com/saschawolter",
-      "name" : "Twitter"
-    }, {
-      "icon" : "linkedin",
-      "link" : "http://www.linkedin.com/pub/sascha-wolter/5/a38/493",
-      "name" : "LinkedIn"
-    } ],
-    "tags" : [ "Web", "IoT", "Smart Home" ],
-    "title" : "Senior Developer Evangelist Connected Home"
-  }, {
-    "bio" : "",
-    "company" : "Google",
-    "companyLogo" : "/images/logos/gdg-lviv.svg",
-    "country" : "Mountain View, United States",
-    "featured" : true,
-    "id" : 4,
-    "name" : "Rustem Arzymbetov",
-    "photoUrl" : "/images/people/rustem_arzymbetov.jpg",
-    "shortBio" : "Rustem is working at Google for last 8 years. Was in Search and Android teams. Big fan of perform...",
-    "socials" : [ {
-      "icon" : "gplus",
-      "link" : "https://plus.google.com/102117493667558776856",
-      "name" : "Google+"
-    } ],
-    "tags" : [ "Cloud", "Performance", "TensorFlow" ],
-    "title" : "Software Engineer"
-  }, {
-    "bio" : "",
-    "company" : "Sygic",
-    "companyLogo" : "/images/logos/gdg-lviv.svg",
-    "country" : "Opole, Poland",
-    "featured" : true,
-    "id" : 5,
-    "name" : "Adrian Kajda",
-    "photoUrl" : "/images/people/adrian_kajda.jpg",
-    "shortBio" : "Creator of Fuelio app. Fuelio was his hooby project started in 2012. Three years later the app wa...",
-    "socials" : [ {
-      "icon" : "gplus",
-      "link" : "plus.google.com/+AdrianKajda",
-      "name" : "Google+"
-    } ],
-    "tags" : [ "Android", "Entrepreneurship" ],
-    "title" : "Product Manager/Developer"
-  }, {
-    "badges" : [ {
-      "description" : "Angular Google Developer Expert",
-      "link" : "https://developers.google.com/experts/people/gerard-sans.html",
-      "name" : "GDE"
-    } ],
-    "bio" : "",
-    "company" : "AngularZone",
-    "companyLogo" : "/images/logos/gdg-lviv.svg",
-    "country" : "London, United Kingdom",
-    "featured" : true,
-    "id" : 6,
-    "name" : "Gerard Sans",
-    "photoUrl" : "/images/people/gerard_sans.jpg",
-    "shortBio" : "",
-    "socials" : [ {
-      "icon" : "twitter",
-      "link" : "https://twitter.com/gerardsans",
-      "name" : "Twitter"
-    }, {
-      "icon" : "website",
-      "link" : "https://medium.com/@gerard.sans",
-      "name" : "Website"
-    } ],
-    "tags" : [ "Web", "Angular", "Progressive Web Apps" ],
-    "title" : "Technical Evangelist"
-  }, {
-    "badges" : [ {
-      "description" : "Android Google Developer Expert",
-      "link" : "https://developers.google.com/experts/people/yonatan-levin.html",
-      "name" : "GDE"
-    } ],
-    "bio" : "",
-    "company" : "Google",
-    "companyLogo" : "/images/logos/gdg-lviv.svg",
-    "country" : "Prague, Czech Republic",
-    "featured" : true,
-    "id" : 7,
-    "name" : "Jozef Vodicka",
-    "photoUrl" : "/images/people/jozef_vodicka.jpg",
-    "shortBio" : "TEDx speaker, Slovak Forbes 30-under-30, IT auditor for AIESEC International & TOP 5 Student Entrepreneurs in Slovakia.",
-    "socials" : [ {
-      "icon" : "linkedin",
-      "link" : "https://www.linkedin.com/in/jozefvodicka",
-      "name" : "LinkedIn"
-    }, {
-      "icon" : "twitter",
-      "link" : "https://twitter.com/jozefvodicka",
-      "name" : "Twitter"
-    }, {
-      "icon" : "gplus",
-      "link" : "https://plus.google.com/+JozefVodicka",
-      "name" : "Google+"
-    }, {
-      "icon" : "facebook",
-      "link" : "https://www.facebook.com/jozef.vodicka",
-      "name" : "Facebook"
-    } ],
-    "tags" : [ "Cloud", "Firebase" ],
-    "title" : "Developer Relations Program Manager"
-  }, {
-    "bio" : "",
-    "company" : "IG",
-    "companyLogo" : "/images/logos/gdg-lviv.svg",
-    "country" : "Krakow, Poland",
-    "featured" : true,
-    "id" : 8,
-    "name" : "Mateusz Herych",
-    "photoUrl" : "/images/people/mateusz_herych.jpg",
-    "shortBio" : "3x rockstar of DevFest Ukraine stage. Android GDE. Co-organizer of GDG Krakow.",
-    "socials" : [ {
-      "icon" : "gplus",
-      "link" : "https://plus.google.com/+MateuszHerych",
-      "name" : "Google+"
-    }, {
-      "icon" : "twitter",
-      "link" : "https://twitter.com/mherych",
-      "name" : "Twitter"
-    }, {
-      "icon" : "linkedin",
-      "link" : "https://www.linkedin.com/in/herych",
-      "name" : "LinkedIn"
-    } ],
-    "tags" : [ "Android", "Android", "Design Patterns", "Libraries" ],
-    "title" : "Android Tech Lead"
-  }, {
-    "bio" : "",
-    "company" : "SoftServe",
-    "companyLogo" : "/images/logos/gdg-lviv.svg",
-    "country" : "Kyiv, Ukraine",
-    "featured" : false,
-    "id" : 9,
-    "name" : "David Mayboroda",
-    "photoUrl" : "/images/people/david_mayboroda.jpg",
-    "shortBio" : "Ex Yandex emproyee. Android enthusiast.",
-    "socials" : [ {
-      "icon" : "facebook",
-      "link" : "https://www.facebook.com/profile.php?id=100008474898785",
-      "name" : "Facebook"
-    }, {
-      "icon" : "github",
-      "link" : "https://github.com/dmayboroda",
-      "name" : "GitHub"
-    } ],
-    "tags" : [ "Android", "Dagger 2" ],
-    "title" : "Android Engineer"
-  } ],
-  "team" : [ {
-    "members" : [ {
-      "name" : "Oleh Zasadnyy",
-      "photoUrl" : "/images/people/oleh_zasadnyy.jpg",
-      "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/+OlehZasadnyy",
-        "name" : "Google+"
-      }, {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/oleh.zasadnyy",
-        "name" : "Facebook"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/ozasadnyy",
-        "name" : "Twitter"
-      }, {
-        "icon" : "website",
-        "link" : "http://o.zasadnyy.com/",
-        "name" : "Blog"
-      } ],
-      "title" : "Website and sponsors"
-    }, {
-      "name" : "Sofiya Huts",
-      "photoUrl" : "/images/people/sofiya_huts.jpg",
-      "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/+SofiaHuts",
-        "name" : "Google+"
-      }, {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/sophie.huts.7",
-        "name" : "Facebook"
-      } ],
-      "title" : "Social and media"
-    }, {
-      "name" : "Vitaliy Zasadnyy",
-      "photoUrl" : "/images/people/vitaliy_zasadnyy.jpg",
-      "socials" : [ {
-        "icon" : "linkedin",
-        "link" : "https://www.linkedin.com/in/zasadnyy",
-        "name" : "Linkedin"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/zasadnyy",
-        "name" : "Twitter"
-      }, {
-        "icon" : "website",
-        "link" : "http://v.zasadnyy.com/",
-        "name" : "Blog"
-      } ],
-      "title" : "Speakers"
-    }, {
-      "name" : "Marta Maxymiak",
-      "photoUrl" : "/images/people/marta_maxymiak.jpg",
-      "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/104036874811391520583",
-        "name" : "Google+"
-      }, {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/marta.maxymiak",
-        "name" : "Facebook"
-      } ],
-      "title" : "Party and happiness"
-    }, {
-      "name" : "Ostap Andrusiv",
-      "photoUrl" : "/images/people/ostap_andrusiv.jpg",
-      "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://google.com/+OstapAndrusiv",
-        "name" : "Google+"
-      }, {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/ostap.andrusiv",
-        "name" : "Facebook"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/p1f",
-        "name" : "Twitter"
-      }, {
-        "icon" : "website",
-        "link" : "http://andrusiv.com/",
-        "name" : "Blog"
-      } ],
-      "title" : "Sponsors"
-    }, {
-      "name" : "Vasylyna Mytsak",
-      "photoUrl" : "/images/people/vasylyna_mytsak.jpg",
-      "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/+ВасилинаМицак",
-        "name" : "Google+"
-      }, {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/vasylyna.mytsak",
-        "name" : "Facebook"
-      } ],
-      "title" : "Party and happiness"
-    }, {
-      "name" : "Volodya Karpliuk",
-      "photoUrl" : "/images/people/volodya_karpliuk.jpg",
-      "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/+VolodyaKarpliuk23",
-        "name" : "Google+"
-      }, {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/volodya.karpluk",
-        "name" : "Facebook"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/keyv23",
-        "name" : "Twitter"
-      } ],
-      "title" : "Speakers"
-    }, {
-      "name" : "Diana Pinchuk",
-      "photoUrl" : "/images/people/diana_pinchuk.jpg",
-      "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/+DianaPinchuk",
-        "name" : "Google+"
-      }, {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/diana.pinchuk.9",
-        "name" : "Facebook"
-      } ],
-      "title" : "Social and media"
-    } ],
-    "title" : "Core Team"
-  }, {
-    "members" : [ {
-      "name" : "Ihor Dvoretskyi",
-      "photoUrl" : "/images/people/ihor_dvoretskyi.jpg",
-      "socials" : [ {
-        "icon" : "facebook",
-        "link" : "https://www.facebook.com/idvoretskyi",
-        "name" : "Facebook"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/idvoretskyi",
-        "name" : "Twitter"
-      } ],
-      "title" : "Cloud stream"
-    }, {
-      "name" : "Dmytro Danylyk",
-      "photoUrl" : "/images/people/dmytro_danylyk.jpg",
-      "socials" : [ {
-        "icon" : "gplus",
-        "link" : "https://plus.google.com/+DmytroDanylyk",
-        "name" : "Google+"
-      }, {
-        "icon" : "twitter",
-        "link" : "https://twitter.com/dmytrodanylyk",
-        "name" : "Twitter"
-      }, {
-        "icon" : "website",
-        "link" : "http://www.dmytrodanylyk.com/#/about",
-        "name" : "Website"
-      } ],
-      "title" : "Android Stream"
-    } ],
-    "title" : "Program Committee"
-  } ],
-  "tickets" : {
-    "elements" : [ {
-      "currency" : "€",
-      "ends" : "24 Nov",
-      "info" : "",
-      "name" : "",
-      "price" : 0,
-      "soldOut" : false,
-      "starts" : ""
-    }],
-    "url" : "https://www.eventbrite.co.uk/e/gdg-devfest-2017-reggio-emilia-tickets-39916181373"
+  "speakers": [
+    null,
+    {
+      "bio": "",
+      "company": "Soluzioni Futura",
+      "companyLogo": "/images/logos/soluzioni-futura.svg",
+      "country": "Reggio Emilia, Italy",
+      "featured": true,
+      "id": 1,
+      "name": "Giovanni Bruno",
+      "photoUrl": "/images/people/giovanni-bruno.jpg",
+      "shortBio": "",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/giovanni-bruno-04265949/",
+          "name": "LinkedIn"
+        },
+        {
+          "icon": "github",
+          "link": "https://github.com/giowe",
+          "name": "GitHub"
+        }
+      ],
+      "tags": [
+        "AWS",
+        "Serverless"
+      ],
+      "title": "Presidente Soluzioni Futura Soc. Coop."
+    },
+    {
+      "bio": "",
+      "company": "Soluzioni Futura",
+      "companyLogo": "/images/logos/soluzioni-futura.svg",
+      "country": "Reggio Emilia, Italy",
+      "featured": true,
+      "id": 2,
+      "name": "Daniele Donelli",
+      "photoUrl": "/images/people/daniele-donelli.jpg",
+      "shortBio": "",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/daniele-donelli-aba5575b/",
+          "name": "LinkedIn"
+        }
+      ],
+      "tags": [
+        "Imprenditorialità"
+      ],
+      "title": "Presidente presso Soluzioni Futura"
+    },
+    {
+      "bio": "I am currently working full-time as a Junior Data Architect, while technologically agnostic, my two areas of focus are Python and the use of Google Cloud services (I am a Google Certified Data Engineer) in order to create automated data pipelines, refine, analyze and build machine learning models on top of the ingested data.While working I am also finishing my undergraduate degree in Economics and Finance at the University of Bologna, aside from the time spent on university's exams, whenever I have time to spare, I love experimenting with cutting-edge technologies such as Functional Programming (Coconut and Haskell), Game Development (Unity and Godot), Molecular Biology/Genetics/Bioinformatics, but most notably Blockchain (Ethereum, Hyperledger, Bitcoin) and Deep Learning (Tensorflow, Keras).I also teach Python and Data Analysis at a local Python Meetup ",
+      "company": "BitBang",
+      "companyLogo": "/images/logos/bitbang.png",
+      "country": "Bologna, Italy",
+      "featured": true,
+      "id": 3,
+      "name": "Michele 'Ubik' De Simoni",
+      "photoUrl": "/images/people/michele-de-simoni.jpg",
+      "shortBio": "I am currently working full-time as a Junior Data Architect, while technologically...",
+      "socials": [
+        {
+          "icon": "github",
+          "link": "https://github.com/mr-ubik",
+          "name": "GitHub"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/micheledesimoni/",
+          "name": "LinkedIn"
+        }
+      ],
+      "tags": [
+        "Python",
+        "Machine Learning",
+        "Data science",
+        "Google Cloud"
+      ],
+      "title": "Junior Data Architect"
+    },
+    {
+      "bio": "",
+      "company": "Impact Hub Reggio Emilia",
+      "companyLogo": "/images/logos/impact-hub.png",
+      "country": "Reggio Emilia, Italy",
+      "featured": true,
+      "id": 4,
+      "name": "Nicola 'Nick' Giacchè",
+      "photoUrl": "/images/people/nick-giacche.jpg",
+      "shortBio": "",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/nicolagiacche/",
+          "name": "Linkedin"
+        }
+      ],
+      "tags": [
+        "Community",
+        "Social networks",
+        "Marketing"
+      ],
+      "title": "Software Engineer"
+    },
+    {
+      "bio": "",
+      "company": "",
+      "companyLogo": "",
+      "country": "Roma, Italy",
+      "featured": true,
+      "id": 5,
+      "name": "Giovanni Biriba",
+      "photoUrl": "/images/people/giovanni-biriba.jpg",
+      "shortBio": "",
+      "socials": [
+        {
+          "icon": "facebook",
+          "link": "https://www.facebook.com/biriba",
+          "name": "Facebook"
+        }
+      ],
+      "tags": [
+        "Aumented Reality",
+        "Virtual Reality"
+      ],
+      "title": ""
+    },
+    {
+      "bio": "",
+      "company": "",
+      "companyLogo": "",
+      "country": "Reggio Emilia, Italy",
+      "featured": true,
+      "id": 6,
+      "name": "Simone Botti",
+      "photoUrl": "/images/people/simone-botti.jpg",
+      "shortBio": "",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/simone-botti-0362a1105",
+          "name": "Linkedin"
+        }
+      ],
+      "tags": [
+        ""
+      ],
+      "title": ""
+    },
+    {
+      "badges": [
+        {
+          "description": "Android Google Developer Expert",
+          "link": "https://developers.google.com/experts/",
+          "name": "GDE"
+        }
+      ],
+      "bio": "",
+      "company": "Nana Bianca",
+      "companyLogo": "/images/logos/nana_bianca.jpg",
+      "country": "Firenze, Italy",
+      "featured": true,
+      "id": 7,
+      "name": "Fabio Collini",
+      "photoUrl": "/images/people/fabio-collini.jpg",
+      "shortBio": "",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/fabiocollini",
+          "name": "LinkedIn"
+        }
+      ],
+      "tags": [
+        "Android",
+        "Java",
+        "Javascript"
+      ],
+      "title": "Android Engineer"
+    },
+    {
+      "bio": "",
+      "company": "Pigro",
+      "companyLogo": "/images/logos/pigro.png",
+      "country": "Reggio Emilia, Italy",
+      "featured": true,
+      "id": 8,
+      "name": "Nicolò Magnanini",
+      "photoUrl": "/images/people/nicolo-magnanini.jpg",
+      "shortBio": "",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/nicolomagnanini/",
+          "name": "Linkedin"
+        },{
+          "icon": "facebook",
+          "link": "https://www.facebook.com/nicolo.magnanini",
+          "name": "Facebook"
+        }
+      ],
+      "tags": [
+        "Linux",
+        "MySQL",
+        "Javascript",
+        "Java",
+        "C++"
+      ],
+      "title": "Entrepreneur and Core Developer"
+    },
+    {
+      "bio": "",
+      "company": "",
+      "companyLogo": "",
+      "country": "Bologna, Italy",
+      "featured": false,
+      "id": 9,
+      "name": "Federico Bertani",
+      "photoUrl": "/images/people/federico-bertani.jpg",
+      "shortBio": "",
+      "socials": [
+        {
+          "icon": "github",
+          "link": "https://github.com/federicoB",
+          "name": "GitHub"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/federicobertani",
+          "name": "Linkedin"
+        }
+      ],
+      "tags": [
+        "Java",
+        "Python",
+        "Django",
+        "React"
+      ],
+      "title": ""
+    },
+    {
+      "bio": "",
+      "company": "70 Division",
+      "companyLogo": "/images/logos/70division.png",
+      "country": "Reggio Emilia, Italy",
+      "featured": false,
+      "id": 10,
+      "name": "Giuseppe Capoluongo",
+      "photoUrl": "/images/people/giuseppe-capoluongo.jpg",
+      "shortBio": "",
+      "socials": [
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/giusecapo",
+          "name": "Linkedin"
+        }
+      ],
+      "tags": [
+        "iOS",
+        "Javascript",
+        "Design"
+      ],
+      "title": "Mobile and Web Developer"
+    }
+  ],
+  "team": [
+    {
+      "members": [
+        {
+          "name": "Oleh Zasadnyy",
+          "photoUrl": "/images/people/oleh_zasadnyy.jpg",
+          "socials": [
+            {
+              "icon": "gplus",
+              "link": "https://plus.google.com/+OlehZasadnyy",
+              "name": "Google+"
+            },
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/oleh.zasadnyy",
+              "name": "Facebook"
+            },
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/ozasadnyy",
+              "name": "Twitter"
+            },
+            {
+              "icon": "website",
+              "link": "http://o.zasadnyy.com/",
+              "name": "Blog"
+            }
+          ],
+          "title": "Website and sponsors"
+        },
+        {
+          "name": "Sofiya Huts",
+          "photoUrl": "/images/people/sofiya_huts.jpg",
+          "socials": [
+            {
+              "icon": "gplus",
+              "link": "https://plus.google.com/+SofiaHuts",
+              "name": "Google+"
+            },
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/sophie.huts.7",
+              "name": "Facebook"
+            }
+          ],
+          "title": "Social and media"
+        },
+        {
+          "name": "Vitaliy Zasadnyy",
+          "photoUrl": "/images/people/vitaliy_zasadnyy.jpg",
+          "socials": [
+            {
+              "icon": "linkedin",
+              "link": "https://www.linkedin.com/in/zasadnyy",
+              "name": "Linkedin"
+            },
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/zasadnyy",
+              "name": "Twitter"
+            },
+            {
+              "icon": "website",
+              "link": "http://v.zasadnyy.com/",
+              "name": "Blog"
+            }
+          ],
+          "title": "Speakers"
+        },
+        {
+          "name": "Marta Maxymiak",
+          "photoUrl": "/images/people/marta_maxymiak.jpg",
+          "socials": [
+            {
+              "icon": "gplus",
+              "link": "https://plus.google.com/104036874811391520583",
+              "name": "Google+"
+            },
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/marta.maxymiak",
+              "name": "Facebook"
+            }
+          ],
+          "title": "Party and happiness"
+        },
+        {
+          "name": "Ostap Andrusiv",
+          "photoUrl": "/images/people/ostap_andrusiv.jpg",
+          "socials": [
+            {
+              "icon": "gplus",
+              "link": "https://google.com/+OstapAndrusiv",
+              "name": "Google+"
+            },
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/ostap.andrusiv",
+              "name": "Facebook"
+            },
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/p1f",
+              "name": "Twitter"
+            },
+            {
+              "icon": "website",
+              "link": "http://andrusiv.com/",
+              "name": "Blog"
+            }
+          ],
+          "title": "Sponsors"
+        },
+        {
+          "name": "Vasylyna Mytsak",
+          "photoUrl": "/images/people/vasylyna_mytsak.jpg",
+          "socials": [
+            {
+              "icon": "gplus",
+              "link": "https://plus.google.com/+ВасилинаМицак",
+              "name": "Google+"
+            },
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/vasylyna.mytsak",
+              "name": "Facebook"
+            }
+          ],
+          "title": "Party and happiness"
+        },
+        {
+          "name": "Volodya Karpliuk",
+          "photoUrl": "/images/people/volodya_karpliuk.jpg",
+          "socials": [
+            {
+              "icon": "gplus",
+              "link": "https://plus.google.com/+VolodyaKarpliuk23",
+              "name": "Google+"
+            },
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/volodya.karpluk",
+              "name": "Facebook"
+            },
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/keyv23",
+              "name": "Twitter"
+            }
+          ],
+          "title": "Speakers"
+        },
+        {
+          "name": "Diana Pinchuk",
+          "photoUrl": "/images/people/diana_pinchuk.jpg",
+          "socials": [
+            {
+              "icon": "gplus",
+              "link": "https://plus.google.com/+DianaPinchuk",
+              "name": "Google+"
+            },
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/diana.pinchuk.9",
+              "name": "Facebook"
+            }
+          ],
+          "title": "Social and media"
+        }
+      ],
+      "title": "Core Team"
+    },
+    {
+      "members": [
+        {
+          "name": "Ihor Dvoretskyi",
+          "photoUrl": "/images/people/ihor_dvoretskyi.jpg",
+          "socials": [
+            {
+              "icon": "facebook",
+              "link": "https://www.facebook.com/idvoretskyi",
+              "name": "Facebook"
+            },
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/idvoretskyi",
+              "name": "Twitter"
+            }
+          ],
+          "title": "Cloud stream"
+        },
+        {
+          "name": "Dmytro Danylyk",
+          "photoUrl": "/images/people/dmytro_danylyk.jpg",
+          "socials": [
+            {
+              "icon": "gplus",
+              "link": "https://plus.google.com/+DmytroDanylyk",
+              "name": "Google+"
+            },
+            {
+              "icon": "twitter",
+              "link": "https://twitter.com/dmytrodanylyk",
+              "name": "Twitter"
+            },
+            {
+              "icon": "website",
+              "link": "http://www.dmytrodanylyk.com/#/about",
+              "name": "Website"
+            }
+          ],
+          "title": "Android Stream"
+        }
+      ],
+      "title": "Program Committee"
+    }
+  ],
+  "tickets": {
+    "elements": [
+      {
+        "currency": "€",
+        "ends": "24 Nov",
+        "info": "",
+        "name": "",
+        "price": 0,
+        "soldOut": false,
+        "starts": ""
+      }
+    ],
+    "url": "https://www.eventbrite.co.uk/e/gdg-devfest-2017-reggio-emilia-tickets-39916181373"
   },
-  "videos" : [ {
-    "speakers" : "Jakub Škvára",
-    "thumbnail" : "/images/sessions/116.JPG",
-    "title" : "Polymer vs other libraries",
-    "youtubeId" : "-UEURYYVCmg"
-  } ]
+  "videos": [
+    {
+      "speakers": "Jakub Škvára",
+      "thumbnail": "/images/sessions/116.JPG",
+      "title": "Polymer vs other libraries",
+      "youtubeId": "-UEURYYVCmg"
+    }
+  ]
 }
