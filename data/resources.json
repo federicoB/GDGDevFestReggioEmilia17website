@@ -1,20 +1,20 @@
 {
   "title": "GDG DevFest Reggio Emilia 2017",
-  "description": "La conferenza annuale di tecnologia Google e non solo!",
-  "keywords": "event, gdg, gde, devfest, google, programming, developers, web, cloud",
+  "description": "La conferenza annuale a Reggio Emilia di tecnologia Google e non solo!",
+  "keywords": "event, gdg, gde, devfest, google, programming, developers, web, cloud, firebase, kotlin, chatbots, git",
   "dates": "25 Novembre 2017",
   "locationAddressShort": "Reggio Emilia",
   "motto": "Scopri impara appassionati",
   "playIcon": "Guarda com'é un DevFest GDG",
   "c4p": "Diventa a speaker",
-  "buyTicket": "Compra un biglietto",
+  "buyTicket": "Ottieni un biglietto",
   "backToTop": "Torna su",
   "subscribe": "Iscriviti",
   "yourEmail": "La tua mail",
   "subscribeNote": "No spam, only the latest news and updates!",
   "contactUs": "Contattaci",
   "ticketsTitle": "Biglietti",
-  "ticketsDetails": "Tickets grant access to all conference sections, coffee breaks, lunch and party. Accommodation is NOT included in the ticket price.",
+  "ticketsDetails": "Il biglietto è gratuito e permette l'accesso a tutte le conferenze e al pranzo offerto dalla community",
   "close": "Chiudi",
   "soldOutTickets": "Biglietti finiti",
   "socialTitle": "Social",
@@ -23,9 +23,9 @@
   "clickToViewPhotos": "Click here to view more photos",
   "partners": "Partners",
   "becomePartner": "Become a partner",
-  "featuredVideosTitle": "Featured #DFUA '15 Sessions",
+  "featuredVideosTitle": "",
   "featuredVideosViewAll": "View all videos",
-  "featuredPeopleTitle": "Rockstar Speakers",
+  "featuredPeopleTitle": "Speakers",
   "featuredPeopleViewAll": "View all speakers",
   "action": "See how it was",
   "locationTitle": "Impact Hub",
@@ -76,36 +76,6 @@
           "text": "Google Developers",
           "url": "https://developers.google.com/",
           "newTab": true
-        },
-        {
-          "text": "GDG DevFest Ukraine 2013",
-          "url": "http://gdg-devfest-ua.appspot.com/",
-          "newTab": true
-        },
-        {
-          "text": "GDG DevFest Ukraine 2014",
-          "url": "http://devfest.gdg.org.ua/2014/",
-          "newTab": true
-        },
-        {
-          "text": "GDG DevFest Ukraine 2015",
-          "url": "http://devfest.gdg.org.ua/2015/",
-          "newTab": true
-        }
-      ]
-    },
-    {
-      "title": "For Partners",
-      "links": [
-        {
-          "text": "Partnership Proposition",
-          "url": "http://bit.ly/df16-sponsor",
-          "newTab": true
-        },
-        {
-          "text": "Media Kit",
-          "url": "http://bit.ly/df16-media",
-          "newTab": true
         }
       ]
     }
@@ -119,7 +89,7 @@
     ]
   },
   "teamPageTitle": "Team",
-  "teamPageText": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) Lviv](http://lviv.gdg.org.ua/) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with Ukrainian audience to boost development of IT.",
+  "teamPageText": "Google is known all around the world. Everyone is 'googling', checking on 'maps' and communicating in 'gmail'. For simple users, they are services that just works, but not for us. Developers see much more: APIs, scalability issues, complex technology stacks. And that is what GDG is about.<br><br> [Google Developers Group (GDG) Reggio Emilia](http://www.gdgreggioemilia.it/) - is open and volunteer geek community who create exciting projects and share experience about Google technologies with a passion.<br><br> Our goal is to organize space to connect the best industry experts with Ukrainian audience to boost development of IT.",
   "statistics": [
     {
       "counter": 34,
@@ -137,9 +107,5 @@
       "counter": 1,
       "caption": "Track"
     }
-  ],
-  "callToAction": {
-    "videoTitle": "GDG DevFest 2015",
-    "videoId": "DfMnJAzOFng"
-  }
+  ]
 }

@@ -3,17 +3,6 @@
     {
       "logos": [
         {
-          "logoUrl": "../images/logos/gdg-lviv.svg",
-          "name": "GDG Lviv",
-          "url": "https://plus.google.com/102444623953913144164",
-          "width": 170
-        }
-      ],
-      "title": "Template Creator"
-    },
-    {
-      "logos": [
-        {
           "logoUrl": "../images/logos/google.svg",
           "name": "Google",
           "url": "https://www.google.com.ua/intl/en/about/"
@@ -22,9 +11,25 @@
           "logoUrl": "../images/logos/gdg-x.svg",
           "name": "GDG[x]",
           "url": "https://github.com/gdg-x"
+        },
+        {
+          "logoUrl": "../images/logos/gdg-bologna.png",
+          "name": "GDG Bologna",
+          "url": "https://www.facebook.com/gdgbologna/"
         }
       ],
       "title": "General Partner"
+    },
+    {
+      "logos": [
+        {
+          "logoUrl": "../images/logos/gdg-lviv.svg",
+          "name": "GDG Lviv",
+          "url": "https://plus.google.com/102444623953913144164",
+          "width": 170
+        }
+      ],
+      "title": "Website Template Creator"
     }
   ],
   "schedule": [
@@ -535,7 +540,11 @@
         }
       ],
       "tags": [
-        ""
+        "Java",
+        "Python",
+        "Php",
+        "Javascript",
+        "C++"
       ],
       "title": ""
     },
@@ -655,243 +664,17 @@
       "title": "Mobile and Web Developer"
     }
   ],
-  "team": [
-    {
-      "members": [
-        {
-          "name": "Oleh Zasadnyy",
-          "photoUrl": "/images/people/oleh_zasadnyy.jpg",
-          "socials": [
-            {
-              "icon": "gplus",
-              "link": "https://plus.google.com/+OlehZasadnyy",
-              "name": "Google+"
-            },
-            {
-              "icon": "facebook",
-              "link": "https://www.facebook.com/oleh.zasadnyy",
-              "name": "Facebook"
-            },
-            {
-              "icon": "twitter",
-              "link": "https://twitter.com/ozasadnyy",
-              "name": "Twitter"
-            },
-            {
-              "icon": "website",
-              "link": "http://o.zasadnyy.com/",
-              "name": "Blog"
-            }
-          ],
-          "title": "Website and sponsors"
-        },
-        {
-          "name": "Sofiya Huts",
-          "photoUrl": "/images/people/sofiya_huts.jpg",
-          "socials": [
-            {
-              "icon": "gplus",
-              "link": "https://plus.google.com/+SofiaHuts",
-              "name": "Google+"
-            },
-            {
-              "icon": "facebook",
-              "link": "https://www.facebook.com/sophie.huts.7",
-              "name": "Facebook"
-            }
-          ],
-          "title": "Social and media"
-        },
-        {
-          "name": "Vitaliy Zasadnyy",
-          "photoUrl": "/images/people/vitaliy_zasadnyy.jpg",
-          "socials": [
-            {
-              "icon": "linkedin",
-              "link": "https://www.linkedin.com/in/zasadnyy",
-              "name": "Linkedin"
-            },
-            {
-              "icon": "twitter",
-              "link": "https://twitter.com/zasadnyy",
-              "name": "Twitter"
-            },
-            {
-              "icon": "website",
-              "link": "http://v.zasadnyy.com/",
-              "name": "Blog"
-            }
-          ],
-          "title": "Speakers"
-        },
-        {
-          "name": "Marta Maxymiak",
-          "photoUrl": "/images/people/marta_maxymiak.jpg",
-          "socials": [
-            {
-              "icon": "gplus",
-              "link": "https://plus.google.com/104036874811391520583",
-              "name": "Google+"
-            },
-            {
-              "icon": "facebook",
-              "link": "https://www.facebook.com/marta.maxymiak",
-              "name": "Facebook"
-            }
-          ],
-          "title": "Party and happiness"
-        },
-        {
-          "name": "Ostap Andrusiv",
-          "photoUrl": "/images/people/ostap_andrusiv.jpg",
-          "socials": [
-            {
-              "icon": "gplus",
-              "link": "https://google.com/+OstapAndrusiv",
-              "name": "Google+"
-            },
-            {
-              "icon": "facebook",
-              "link": "https://www.facebook.com/ostap.andrusiv",
-              "name": "Facebook"
-            },
-            {
-              "icon": "twitter",
-              "link": "https://twitter.com/p1f",
-              "name": "Twitter"
-            },
-            {
-              "icon": "website",
-              "link": "http://andrusiv.com/",
-              "name": "Blog"
-            }
-          ],
-          "title": "Sponsors"
-        },
-        {
-          "name": "Vasylyna Mytsak",
-          "photoUrl": "/images/people/vasylyna_mytsak.jpg",
-          "socials": [
-            {
-              "icon": "gplus",
-              "link": "https://plus.google.com/+ВасилинаМицак",
-              "name": "Google+"
-            },
-            {
-              "icon": "facebook",
-              "link": "https://www.facebook.com/vasylyna.mytsak",
-              "name": "Facebook"
-            }
-          ],
-          "title": "Party and happiness"
-        },
-        {
-          "name": "Volodya Karpliuk",
-          "photoUrl": "/images/people/volodya_karpliuk.jpg",
-          "socials": [
-            {
-              "icon": "gplus",
-              "link": "https://plus.google.com/+VolodyaKarpliuk23",
-              "name": "Google+"
-            },
-            {
-              "icon": "facebook",
-              "link": "https://www.facebook.com/volodya.karpluk",
-              "name": "Facebook"
-            },
-            {
-              "icon": "twitter",
-              "link": "https://twitter.com/keyv23",
-              "name": "Twitter"
-            }
-          ],
-          "title": "Speakers"
-        },
-        {
-          "name": "Diana Pinchuk",
-          "photoUrl": "/images/people/diana_pinchuk.jpg",
-          "socials": [
-            {
-              "icon": "gplus",
-              "link": "https://plus.google.com/+DianaPinchuk",
-              "name": "Google+"
-            },
-            {
-              "icon": "facebook",
-              "link": "https://www.facebook.com/diana.pinchuk.9",
-              "name": "Facebook"
-            }
-          ],
-          "title": "Social and media"
-        }
-      ],
-      "title": "Core Team"
-    },
-    {
-      "members": [
-        {
-          "name": "Ihor Dvoretskyi",
-          "photoUrl": "/images/people/ihor_dvoretskyi.jpg",
-          "socials": [
-            {
-              "icon": "facebook",
-              "link": "https://www.facebook.com/idvoretskyi",
-              "name": "Facebook"
-            },
-            {
-              "icon": "twitter",
-              "link": "https://twitter.com/idvoretskyi",
-              "name": "Twitter"
-            }
-          ],
-          "title": "Cloud stream"
-        },
-        {
-          "name": "Dmytro Danylyk",
-          "photoUrl": "/images/people/dmytro_danylyk.jpg",
-          "socials": [
-            {
-              "icon": "gplus",
-              "link": "https://plus.google.com/+DmytroDanylyk",
-              "name": "Google+"
-            },
-            {
-              "icon": "twitter",
-              "link": "https://twitter.com/dmytrodanylyk",
-              "name": "Twitter"
-            },
-            {
-              "icon": "website",
-              "link": "http://www.dmytrodanylyk.com/#/about",
-              "name": "Website"
-            }
-          ],
-          "title": "Android Stream"
-        }
-      ],
-      "title": "Program Committee"
-    }
-  ],
+  "team": [],
   "tickets": {
     "elements": [
       {
-        "currency": "€",
-        "ends": "24 Nov",
-        "info": "",
+        "info": "Gratis",
         "name": "",
-        "price": 0,
         "soldOut": false,
         "starts": ""
       }
     ],
     "url": "https://www.eventbrite.co.uk/e/gdg-devfest-2017-reggio-emilia-tickets-39916181373"
   },
-  "videos": [
-    {
-      "speakers": "Jakub Škvára",
-      "thumbnail": "/images/sessions/116.JPG",
-      "title": "Polymer vs other libraries",
-      "youtubeId": "-UEURYYVCmg"
-    }
-  ]
+  "videos": []
 }

@@ -1,10 +1,10 @@
 {
-  "url": "gdgreggioemilia.it/devfest17",
+  "url": "http://www.gdgreggioemilia.it/devfest17/",
   "startDate": "2017-11-25T10:00:00+02:00",
   "endDate": "2017-11-25T18:00:00+02:00",
   "analytics": {
-    "prod": "UA-43643469-8",
-    "dev": "UA-43643469-9"
+    "prod": "UA-109848951-1",
+    "dev": "UA-109848951-1"
   },
   "organizer": {
     "name": "GDG Reggio Emilia",
@@ -24,20 +24,16 @@
     "ratingsPath": "/ratings",
     "indexedDbSession": "devfestgdgreggioemilia17"
   },
-  "mailchimp": {
-    "url": "https://gdg.us11.list-manage.com/subscribe/post?u=b7e853a79164ddfdbda3ed77b&amp;id=7993e39fbe",
-    "name": "b_b7e853a79164ddfdbda3ed77b_7993e39fbe"
-  },
   "dateFormat": {
     "locale": "it-IT",
     "blog": {"month": "short", "day": "numeric", "year": "numeric"}
   },
-  "hashtag": "dfua",
-  "disqusShortName": "hoverboard-gdg-x",
-  "tweetsSource": "/data/tweets.json",
-  "partnershipProposition": "http://bit.ly/df16-sponsor",
-  "videosSessionsUrl": "https://www.youtube.com/playlist?list=PLt8lEzcLNl31AX3-ONkkWmDOZezu9Cmnv",
-  "enableSessionsRating": true,
+  "hashtag": "DevfestRE",
+  "disqusShortName": "",
+  "tweetsSource": "",
+  "partnershipProposition": "",
+  "videosSessionsUrl": "",
+  "enableSessionsRating": false,
   "navigation": [
     {
       "route": "home",
@@ -78,9 +74,9 @@
     }
   ],
   "location": {
-    "apiKey": "",
+    "apiKey": "AIzaSyB02H5GBURiyauAVKPMVfEzUXRXGKwMCHg",
     "name": "Impact Hub",
-    "address": "Via Statuto 3 - Reggio Emilia, Italia",
+    "address": "Via Statuto 3, Reggio Emilia, Italia",
     "link": "http://www.impacthubre.it",
     "pointer": {
       "latitude": 44.692335,
@@ -88,7 +84,7 @@
       "zoom": 15
     },
     "mapCenter": {
-      "latitude": 10.633331,
+      "latitude": 44.692335,
       "longitude": 10.633331
     },
     "images": [
@@ -96,16 +92,6 @@
       "/images/backgrounds/location_2.jpg",
       "/images/backgrounds/location_3.jpg"
     ]
-  },
-  "gallery": {
-    "albumUrl": "https://plus.google.com/events/gallery/cc6tosp4ohkp6qj9pg5jb4g6o3k?sort=1",
-    "photos": {
-      "big": "/images/backgrounds/2015_1.jpg",
-      "small": [
-        "/images/backgrounds/2015_2.jpg",
-        "/images/backgrounds/2015_3.jpg"
-      ]
-    }
   },
   "pages": {
     "home": {
@@ -118,7 +104,7 @@
         "video": {
           "title": "GDG DevFest Ukraine 2016",
           "youtubeId": "TdpbgRgz6eE",
-          "text": "See how it was in 2016"
+          "text": "Guarda un esempio di DevFest GDG"
         },
         "hideLogo": true,
         "minHeight": "360px"
