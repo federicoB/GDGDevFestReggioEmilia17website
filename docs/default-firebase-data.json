@@ -38,7 +38,7 @@
       "dateReadable": "25 Novembre",
       "timeslots": [
         {
-          "endTime": "10:20",
+          "endTime": "10:15",
           "sessions": [
             [
               1
@@ -53,7 +53,7 @@
               2
             ]
           ],
-          "startTime": "10:20"
+          "startTime": "10:15"
         },
         {
           "endTime": "11:20",
@@ -65,7 +65,7 @@
           "startTime": "10:30"
         },
         {
-          "endTime": "11:40",
+          "endTime": "11:45",
           "sessions": [
             [
               4
@@ -74,22 +74,22 @@
           "startTime": "11:20"
         },
         {
-          "endTime": "12:25",
+          "endTime": "12:30",
           "sessions": [
             [
               5
             ]
           ],
-          "startTime": "11:40"
+          "startTime": "11:45"
         },
         {
-          "endTime": "12:40",
+          "endTime": "12:45",
           "sessions": [
             [
               6
             ]
           ],
-          "startTime": "12:25"
+          "startTime": "12:30"
         },
         {
           "endTime": "14:00",
@@ -98,10 +98,10 @@
               7
             ]
           ],
-          "startTime": "12:40"
+          "startTime": "12:45"
         },
         {
-          "endTime": "14:15",
+          "endTime": "14:50",
           "sessions": [
             [
               8
@@ -110,85 +110,67 @@
           "startTime": "14:00"
         },
         {
-          "endTime": "14:45",
+          "endTime": "15:10",
           "sessions": [
             [
               9
             ]
           ],
-          "startTime": "14:15"
-        },
-        {
-          "endTime": "15:15",
-          "sessions": [
-            [
-              10
-            ]
-          ],
-          "startTime": "14:45"
+          "startTime": "14:50"
         },
         {
           "endTime": "16:00",
           "sessions": [
             [
-              11
+              10
             ]
           ],
-          "startTime": "15:15"
+          "startTime": "15:10"
         },
         {
           "endTime": "16:30",
           "sessions": [
             [
-              12
+              11
             ]
           ],
           "startTime": "16:00"
         },
         {
-          "endTime": "16:50",
+          "endTime": "17:10",
           "sessions": [
             [
-              13
+              12
             ]
           ],
           "startTime": "16:30"
         },
         {
-          "endTime": "17:30",
+          "endTime": "17:40",
           "sessions": [
             [
-              14
+              13
             ]
           ],
-          "startTime": "16:50"
+          "startTime": "17:10"
         },
         {
           "endTime": "18:00",
           "sessions": [
             [
+              14
+            ]
+          ],
+          "startTime": "17:40"
+        },
+        {
+          "endTime": "18:10",
+          "sessions": [
+            [
               15
             ]
           ],
-          "startTime": "17:30"
-        },
-        {
-          "endTime": "18:30",
-          "sessions": [
-            [
-              16
-            ]
-          ],
           "startTime": "18:00"
-        },
-        {
-          "endTime": "18:45",
-          "sessions": [
-            [
-              17
-            ]
-          ],
-          "startTime": "18:30"
         }
       ],
       "tracks": [
@@ -203,14 +185,14 @@
       "description": "",
       "id": 1,
       "image": "/images/backgrounds/registration.jpg",
-      "title": "Registration"
+      "title": "Registrazione"
     },
     "2": {
       "description": "Talk di apertura dell'evento",
       "id": 2,
       "image": "/images/backgrounds/opening.jpg",
       "language": "Italian",
-      "title": "GDG DevFest Reggio Emilia 2017 Opening"
+      "title": "Opening Keynote"
     },
     "3": {
       "complexity": "Intermediate",
@@ -279,27 +261,34 @@
       "title": "Lunch break"
     },
     "8": {
-      "description": "",
-      "id": 8,
-      "image": "",
-      "title": "Introduzione alla II parte"
-    },
-    "9": {
       "complexity": "Beginner",
       "description": "",
-      "id": 9,
+      "id": 8,
       "language": "Italian",
       "presentation": "",
       "speakers": [
-        5
+        8
       ],
       "tags": [
-        "Cloud"
+        "Git"
       ],
-      "title": "VR and game"
+      "title": "In Git we trust"
+    },
+    "9": {
+      "complexity": "Intermediate",
+      "description": "",
+      "id": 9,
+      "language": "Italian",
+      "speakers": [
+        7
+      ],
+      "tags": [
+        "Chatbots"
+      ],
+      "title": "Can a chatbot help you?"
     },
     "10": {
-      "complexity": "Beginner",
+      "complexity": "Intermediate",
       "description": "",
       "id": 10,
       "language": "Italian",
@@ -308,30 +297,30 @@
         6
       ],
       "tags": [
-        "Firebase"
-      ],
-      "title": "Firebase"
-    },
-    "11": {
-      "complexity": "Intermediate",
-      "description": "",
-      "id": 11,
-      "language": "Italian",
-      "presentation": "",
-      "speakers": [
-        7
-      ],
-      "tags": [
         "Kotlin",
         "Languages"
       ],
-      "title": "Kotlin"
+      "title": "Da Java a Kotlin: come convertire una app Android"
+    },
+    "11": {
+      "description": "",
+      "id": 11,
+      "image": "../images/backgrounds/coffee.jpg",
+      "title": "Coffee break"
     },
     "12": {
+      "complexity": "Beginner",
       "description": "",
       "id": 12,
-      "image": "",
-      "title": "Coffee break"
+      "language": "Italian",
+      "presentation": "",
+      "speakers": [
+        5
+      ],
+      "tags": [
+        "Firebase"
+      ],
+      "title": "Firebase"
     },
     "13": {
       "complexity": "Intermediate",
@@ -339,12 +328,13 @@
       "id": 13,
       "language": "Italian",
       "speakers": [
-        8
+        3
       ],
       "tags": [
-        "Chatbots"
+        "Python",
+        "Big data"
       ],
-      "title": "Can a chatbot help you?"
+      "title": "Pythonic Data Superpowers"
     },
     "14": {
       "complexity": "Beginner",
@@ -356,41 +346,15 @@
         9
       ],
       "tags": [
-        "Git"
+        "Node"
       ],
-      "title": "In Git we trust"
+      "title": "Node JS"
     },
     "15": {
-      "complexity": "Intermediate",
       "description": "",
+      "image" : "../images/backgrounds/fireworks.jpg",
       "id": 15,
-      "language": "Italian",
-      "speakers": [
-        3
-      ],
-      "tags": [
-        ""
-      ],
-      "title": "Pythonic Data Superpowers"
-    },
-    "16": {
-      "complexity": "Beginner",
-      "description": "",
-      "id": 16,
-      "language": "Italian",
-      "presentation": "",
-      "speakers": [
-        10
-      ],
-      "tags": [
-        "Android"
-      ],
-      "title": "Node"
-    },
-    "17": {
-      "description": "",
-      "id": 17,
-      "title": "Conclusione evento"
+      "title": "Conclusione evento e saluti"
     }
   },
   "speakers": [
@@ -501,34 +465,11 @@
     },
     {
       "bio": "",
-      "company": "",
-      "companyLogo": "",
-      "country": "Roma, Italy",
-      "featured": true,
-      "id": 5,
-      "name": "Giovanni Biriba",
-      "photoUrl": "/images/people/giovanni-biriba.jpg",
-      "shortBio": "",
-      "socials": [
-        {
-          "icon": "facebook",
-          "link": "https://www.facebook.com/biriba",
-          "name": "Facebook"
-        }
-      ],
-      "tags": [
-        "Aumented Reality",
-        "Virtual Reality"
-      ],
-      "title": ""
-    },
-    {
-      "bio": "",
-      "company": "",
-      "companyLogo": "",
+      "company": "Alma Mater Studiorum – Università di Bologna",
+      "companyLogo": "/images/logos/unibo.png",
       "country": "Reggio Emilia, Italy",
       "featured": true,
-      "id": 6,
+      "id": 5,
       "name": "Simone Botti",
       "photoUrl": "/images/people/simone-botti.jpg",
       "shortBio": "",
@@ -561,7 +502,7 @@
       "companyLogo": "/images/logos/nana_bianca.jpg",
       "country": "Firenze, Italy",
       "featured": true,
-      "id": 7,
+      "id": 6,
       "name": "Fabio Collini",
       "photoUrl": "/images/people/fabio-collini.jpg",
       "shortBio": "",
@@ -585,7 +526,7 @@
       "companyLogo": "/images/logos/pigro.png",
       "country": "Reggio Emilia, Italy",
       "featured": true,
-      "id": 8,
+      "id": 7,
       "name": "Nicolò Magnanini",
       "photoUrl": "/images/people/nicolo-magnanini.jpg",
       "shortBio": "",
@@ -611,11 +552,11 @@
     },
     {
       "bio": "",
-      "company": "",
-      "companyLogo": "",
+      "company": "Alma Mater Studiorum – Università di Bologna",
+      "companyLogo": "/images/logos/unibo.png",
       "country": "Bologna, Italy",
       "featured": false,
-      "id": 9,
+      "id": 8,
       "name": "Federico Bertani",
       "photoUrl": "/images/people/federico-bertani.jpg",
       "shortBio": "",
@@ -645,7 +586,7 @@
       "companyLogo": "/images/logos/70division.png",
       "country": "Reggio Emilia, Italy",
       "featured": false,
-      "id": 10,
+      "id": 9,
       "name": "Giuseppe Capoluongo",
       "photoUrl": "/images/people/giuseppe-capoluongo.jpg",
       "shortBio": "",
@@ -659,7 +600,8 @@
       "tags": [
         "iOS",
         "Javascript",
-        "Design"
+        "Design",
+        "Node"
       ],
       "title": "Mobile and Web Developer"
     }

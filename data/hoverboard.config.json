@@ -24,6 +24,10 @@
     "ratingsPath": "/ratings",
     "indexedDbSession": "devfestgdgreggioemilia17"
   },
+  "mailchimp": {
+    "url": "https://gdgreggioemilia.us14.list-manage.com/subscribe/post?u=e19129e89bf60b26ea9feaac6&amp;id=4b3ddcbca8",
+    "name": "4b3ddcbca8"
+  },
   "dateFormat": {
     "locale": "it-IT",
     "blog": {"month": "short", "day": "numeric", "year": "numeric"}
